@@ -1,0 +1,56 @@
+#imagelog{
+	height:50;
+	width:100;
+}
+#Title{
+	font-size:18px;
+	font-weight:bold;
+	background-color:green;
+}
+#searchArea{
+	float:right;
+	padding-left:18px;
+	white-space:nowrap;
+	height:20px;
+	background-color:#660033;
+}
+#section{
+	width:800px;
+	float:left;
+}
+#rollingboard{
+	height:20px;
+	width:80%;
+	float:right;
+	padding:0px;
+	background-color:#660033;
+	margin:0px;
+	color:green;
+	font-weight:bold;
+}
+#navigate{
+	background-color:#eeeeee;
+	width:150px;
+	height:100%;
+	white-space:nowrap;
+	float:left; 
+	margin-top:2px;
+}
+#freequenceVist{
+	background-color:#eeeeff;
+	width:18%;
+	height:100%;
+	white-space:nowrap;
+	float:right;
+	margin-top:2px;
+}
+span.navItem:link{
+	background-color:green;
+}
+span.navItem:visited{
+	background-color:green;
+}
+span.navItem:hover{
+	background-color:green;
+	cursor:pointer;
+}
